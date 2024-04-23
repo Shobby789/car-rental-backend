@@ -1,0 +1,1 @@
+module.exports.SECRET_KEY = "THIS_IS_SECRET_KEY_OF_MORENT-APP";
